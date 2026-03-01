@@ -21,6 +21,7 @@ Designed to demonstrate systems programming fundamentals, concurrency control, a
 - [Concurrency Model](#-concurrency-model)
 - [Installation](#-installation)
 - [Build Instructions](#-build-instructions)
+- [Screenshots](#-screenshots)
 - [Usage Guide](#-usage-guide)
 - [Performance Measurement](#-performance-measurement)
 - [Screenshots](#-screenshots)
@@ -184,7 +185,33 @@ Format:
 ```
 
 ---
+---
 
+# 📸 Screenshots
+
+## 📂 Project Structure (Ubuntu Terminal)
+
+This shows the created project directory structure including `src`, `include`, and generated executable.
+
+<img width="960" height="1020" alt="file for log analyzer c++" src="https://github.com/user-attachments/assets/5d0af3b2-3be3-4601-9be7-11233339d639" />
+
+
+---
+
+## 🖥 Log Analyzer Output (Multithreaded Execution)
+
+This demonstrates successful execution of the log analyzer, including:
+
+- ERROR count
+- WARNING count
+- INFO count
+- Most frequent IP
+- Execution time measurement
+
+<img width="937" height="268" alt="output" src="https://github.com/user-attachments/assets/eeff0282-6178-4490-9828-261e900dcd32" />
+
+
+---
 # 🔬 Key Engineering Concepts Demonstrated
 
 - Thread lifecycle management
